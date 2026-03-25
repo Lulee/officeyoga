@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="36" fill="#EEF3EB"/>
+  <rect x="56" y="56" width="1088" height="518" rx="36" fill="url(#paint0_linear)"/>
+  <circle cx="962" cy="204" r="182" fill="white" fill-opacity="0.24"/>
+  <circle cx="934" cy="434" r="118" fill="#DDE9C7" fill-opacity="0.52"/>
+  <path d="M188 418C276 356 334 330 414 312C534 285 638 244 728 160" stroke="#F6F9F0" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 14"/>
+  <text x="112" y="150" fill="#F5FAF1" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">CALM WORK RHYTHMS</text>
+  <text x="110" y="286" fill="#FFFFFF" font-family="Georgia, serif" font-size="76" font-weight="700">Breathe Better</text>
+  <text x="110" y="352" fill="#EDF6EA" font-family="Arial, sans-serif" font-size="28">Quick nervous-system resets for high-screen days</text>
+  <rect x="110" y="412" width="316" height="72" rx="36" fill="white" fill-opacity="0.16"/>
+  <text x="268" y="456" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Between meetings</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="70" y1="74" x2="1101" y2="559" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#557A5C"/>
+      <stop offset="1" stop-color="#8EB08D"/>
+    </linearGradient>
+  </defs>
+</svg>

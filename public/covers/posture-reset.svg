@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="36" fill="#F9F7F3"/>
+  <rect x="44" y="44" width="1112" height="542" rx="34" fill="#FFFDF8"/>
+  <rect x="70" y="70" width="1060" height="490" rx="28" fill="url(#paint0_linear)"/>
+  <path d="M870 116C786 195 697 245 556 292C434 332 299 395 190 512" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="888" cy="446" r="186" fill="#E8D6A2" fill-opacity="0.56"/>
+  <circle cx="298" cy="170" r="132" fill="#EDE7D6" fill-opacity="0.32"/>
+  <text x="114" y="150" fill="#4A6741" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">WORKDAY WELLNESS</text>
+  <text x="110" y="286" fill="#2C2C2C" font-family="Georgia, serif" font-size="76" font-weight="700">Posture Reset</text>
+  <text x="110" y="352" fill="#4A4A4A" font-family="Arial, sans-serif" font-size="28">For desk workers, remote teams, and healthier screen time</text>
+  <rect x="110" y="412" width="392" height="72" rx="36" fill="#4A6741"/>
+  <text x="306" y="456" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Gentle, practical, SEO-ready</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="140" y1="100" x2="1028" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2E8CF"/>
+      <stop offset="1" stop-color="#DCE6CF"/>
+    </linearGradient>
+  </defs>
+</svg>

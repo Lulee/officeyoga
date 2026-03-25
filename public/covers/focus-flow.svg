@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="36" fill="#F5F0E5"/>
+  <rect x="48" y="48" width="1104" height="534" rx="30" fill="url(#paint0_linear)"/>
+  <circle cx="970" cy="150" r="170" fill="#E9D8A6" fill-opacity="0.42"/>
+  <circle cx="250" cy="500" r="220" fill="#D4E1C8" fill-opacity="0.72"/>
+  <path d="M840 124C777 186 701 225 604 256C449 306 355 370 273 494" stroke="#F9F7F3" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 14"/>
+  <rect x="110" y="112" width="348" height="54" rx="27" fill="white" fill-opacity="0.16"/>
+  <text x="138" y="148" fill="#F8F5EE" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">OFFICE YOGA</text>
+  <text x="110" y="288" fill="white" font-family="Georgia, serif" font-size="72" font-weight="700">Focus Flow</text>
+  <text x="110" y="350" fill="#F3EEE2" font-family="Arial, sans-serif" font-size="28">Desk stretches, calm energy, modern work rhythms</text>
+  <rect x="110" y="414" width="332" height="72" rx="36" fill="white" fill-opacity="0.18"/>
+  <text x="276" y="458" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Move. Breathe. Reset.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="94" y1="86" x2="1085" y2="576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4A6741"/>
+      <stop offset="1" stop-color="#97AE72"/>
+    </linearGradient>
+  </defs>
+</svg>
