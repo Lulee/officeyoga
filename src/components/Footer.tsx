@@ -29,7 +29,7 @@ export default function Footer() {
             {t.footer.privacy}
           </Link>
           <a
-            href="mailto:hello@officeyoga.blog"
+            href="mailto:officeyoga@lulee.dev"
             className="transition hover:text-[#D95B5B]"
           >
             {t.footer.contact}

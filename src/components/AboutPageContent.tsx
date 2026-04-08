@@ -34,14 +34,14 @@ export default function AboutPageContent() {
               {t.about.contactTitle}
             </h2>
             <p className="mt-3 text-[var(--color-muted)]">
-              {t.about.contactBody.split("hello@officeyoga.blog")[0]}
+              {t.about.contactBody.split("officeyoga@lulee.dev")[0]}
               <a
-                href="mailto:hello@officeyoga.blog"
+                href="mailto:officeyoga@lulee.dev"
                 className="font-medium text-[#4A6741] transition hover:text-[#D95B5B]"
               >
-                hello@officeyoga.blog
+                officeyoga@lulee.dev
               </a>
-              {t.about.contactBody.split("hello@officeyoga.blog")[1] ?? ""}
+              {t.about.contactBody.split("officeyoga@lulee.dev")[1] ?? ""}
             </p>
           </div>
         </div>

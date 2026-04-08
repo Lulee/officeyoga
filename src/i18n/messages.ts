@@ -196,7 +196,7 @@ export const messages: Record<Locale, Messages> = {
         "Desk yoga routines, posture resets, mobility breaks, breathing tools, and workplace wellbeing content built for modern schedules.",
       contactTitle: "Contact",
       contactBody:
-        "Reach us at hello@officeyoga.blog for partnerships, editorial ideas, or wellness collaborations.",
+        "Reach us at officeyoga@lulee.dev for partnerships, editorial ideas, or wellness collaborations.",
     },
     privacy: {
       title: "Privacy Policy",
@@ -221,7 +221,7 @@ export const messages: Record<Locale, Messages> = {
         },
         {
           title: "Your Choices",
-          body: "You may unsubscribe from emails at any time using the link included in each newsletter. If you have privacy-related questions, contact us at hello@officeyoga.blog.",
+          body: "You may unsubscribe from emails at any time using the link included in each newsletter. If you have privacy-related questions, contact us at officeyoga@lulee.dev.",
         },
         {
           title: "Updates",
@@ -295,18 +295,15 @@ export const messages: Record<Locale, Messages> = {
       pathCards: [
         {
           title: "晨间重置",
-          description:
-            "用呼吸、姿势支持和低门槛活动开启更稳的工作日。",
+          description: "用呼吸、姿势支持和低门槛活动开启更稳的工作日。",
         },
         {
           title: "桌边缓解",
-          description:
-            "针对颈部、手腕、肩膀和下背部的高频屏幕劳损问题。",
+          description: "针对颈部、手腕、肩膀和下背部的高频屏幕劳损问题。",
         },
         {
           title: "远程健康",
-          description:
-            "为远程团队建立更可持续的能量、恢复与节律。",
+          description: "为远程团队建立更可持续的能量、恢复与节律。",
         },
       ],
     },
@@ -335,7 +332,7 @@ export const messages: Record<Locale, Messages> = {
         "桌边瑜伽流程、姿势重置、活动间歇、呼吸工具，以及适配现代工作节奏的办公室健康内容。",
       contactTitle: "联系方式",
       contactBody:
-        "如果你想聊合作、选题或健康项目，可以发邮件到 hello@officeyoga.blog。",
+        "如果你想聊合作、选题或健康项目，可以发邮件到 officeyoga@lulee.dev。",
     },
     privacy: {
       title: "隐私政策",
@@ -360,7 +357,7 @@ export const messages: Record<Locale, Messages> = {
         },
         {
           title: "你的选择",
-          body: "你可以随时通过邮件中的退订链接取消订阅。如果你对隐私相关问题有疑问，请联系 hello@officeyoga.blog。",
+          body: "你可以随时通过邮件中的退订链接取消订阅。如果你对隐私相关问题有疑问，请联系 officeyoga@lulee.dev。",
         },
         {
           title: "政策更新",
