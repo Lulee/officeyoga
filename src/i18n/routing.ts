@@ -1,6 +1,6 @@
 import type { Locale } from "@/i18n/messages";
 
-export const baseUrl = "https://www.officeyoga.blog";
+export const baseUrl = "https://officeyoga.lulee.dev";
 
 export function localizePath(locale: Locale, path = "/") {
   if (path === "/" || path === "") {
